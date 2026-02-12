@@ -1,0 +1,125 @@
+>YBR066C NRG2 SGDID:S000000270, Chr II from 370699-370037, Genome Release 64-1-1, reverse complement, Verified ORF, "Transcriptional repressor that mediates glucose repression and negatively regulates filamentous growth; has similarity to Nrg1p"
+CKICSTGFTTSGHLSRHNRIH
+
+>YDL048C STP4 SGDID:S000002206, Chr IV from 368211-366739, Genome Release 64-1-1, reverse complement, Verified ORF, "Protein containing a Kruppel-type zinc-finger domain; has similarity to Stp1p, Stp2p, and Stp3p"
+CPICQRGFARNNDLIRHKKRH
+
+>YDR043C NRG1 SGDID:S000002450, Chr IV from 543369-542674, Genome Release 64-1-1, reverse complement, Verified ORF, "Transcriptional repressor that recruits the Cyc8p-Tup1p complex to promoters; mediates glucose repression and negatively regulates a variety of processes including filamentous growth and alkaline pH response"
+CKICARGFTTSGHLARHNRIH
+
+>YDR096W GIS1 SGDID:S000002503, Chr IV from 637139-639823, Genome Release 64-1-1, Verified ORF, "JmjC domain-containing histone demethylase and transcription factor; involved in expression of genes during nutrient limitation; negatively regulates DPP1 and PHR1; activity is modulated by limited proteasome-mediated proteolysis; has a JmjC and a JmjN domain in the N-terminal region that interact, promoting Gis1p stability and proper transcriptional activity; contains transactivating domains TAD1 and TAD2 downstream of the Jmj domains and a C-terminal DNA binding domain"
+CRECNRQFSSGHHLTRHKKSVH
+
+>YDR216W ADR1 SGDID:S000002624, Chr IV from 895035-899006, Genome Release 64-1-1, Verified ORF, "Carbon source-responsive zinc-finger transcription factor, required for transcription of the glucose-repressed gene ADH2, of peroxisomal protein genes, and of genes required for ethanol, glycerol, and fatty acid utilization"
+CEVCTRAFARQEHLKRHYRSH
+CGLCNRCFTRRDLLIRHAQKIH
+
+>YDR253C MET32 SGDID:S000002661, Chr IV from 964565-963990, Genome Release 64-1-1, reverse complement, Verified ORF, "Zinc-finger DNA-binding protein, involved in transcriptional regulation of the methionine biosynthetic genes, similar to Met31p"
+CAKCSLEFSRSSDLRRHEKTH
+
+>YDR266C YDR266C SGDID:S000002674, Chr IV from 1002023-1000104, Genome Release 64-1-1, reverse complement, Verified ORF, "Protein of unknown function that may interact with ribosomes, based on co-purification experiments;green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm; contains a RING finger domain"
+CVICARKLTYVSLTPCHHKTCH
+
+>YDR323C PEP7 SGDID:S000002731, Chr IV from 1114027-1112480, Genome Release 64-1-1, reverse complement, Verified ORF, "Multivalent adaptor protein that facilitates vesicle-mediated vacuolar protein sorting by ensuring high-fidelity vesicle docking and fusion, which are essential for targeting of vesicles to the endosome; required for vacuole inheritance"
+CPICLRKFDNLQALNAHLDVEH
+
+>YDR463W STP1 SGDID:S000002871, Chr IV from 1386816-1388375, Genome Release 64-1-1, Verified ORF, "Transcription factor, undergoes proteolytic processing by SPS (Ssy1p-Ptr3p-Ssy5p)-sensor component Ssy5p in response to extracellular amino acids; activates transcription of amino acid permease genes and may have a role in tRNA processing"
+CHYCDATFRIRGYLTRHIKKH
+
+>YER028C MIG3 SGDID:S000000830, Chr V from 211876-210692, Genome Release 64-1-1, reverse complement, Verified ORF, "Probable transcriptional repressor involved in response to toxic agents such as hydroxyurea that inhibit ribonucleotide reductase; phosphorylation by Snf1p or the Mec1p pathway inactivates Mig3p, allowing induction of damage response genes"
+CEICSRGFHRLEHKKRHGRTH
+
+>YER130C YER130C SGDID:S000000932, Chr V from 422446-421115, Genome Release 64-1-1, reverse complement, Uncharacterized ORF, "Protein of unknown function; transcription is regulated by Haa1p, Sok2p and Zap1p transcriptional activators; the C. Albicans homolog (MNL1) plays a role in adaptation to stress"
+CEFCDRRFKRQEHLKRHVRSLH
+CHICNKNFSRSDNLNQHVKTH
+
+>YER169W RPH1 SGDID:S000000971, Chr V from 523369-525759, Genome Release 64-1-1, Verified ORF, "JmjC domain-containing histone demethylase; specifically demethylates H3K36 tri- and dimethyl modification states; associates with actively transcribed (RNA polymerase II) regions in vivo and specifically targets H3K36 in its trimethylation state as its substrate; transcriptional repressor of PHR1; Rph1p phosphorylation during DNA damage is under control of the MEC1-RAD53 pathway"
+CKECQRKFSSGHHLTRHKKSVH
+
+>YGL035C MIG1 SGDID:S000003003, Chr VII from 433062-431548, Genome Release 64-1-1, reverse complement, Verified ORF, "Transcription factor involved in glucose repression; sequence specific DNA binding protein containing two Cys2His2 zinc finger motifs; regulated by the SNF1 kinase and the GLC7 phosphatase"
+CPICHRAFHRLEHQTRHMRIH
+
+>YGL209W MIG2 SGDID:S000003177, Chr VII from 95858-97006, Genome Release 64-1-1, Verified ORF, "Protein containing zinc fingers, involved in repression, along with Mig1p, of SUC2 (invertase) expression by high levels of glucose; binds to Mig1p-binding sites in SUC2 promoter"
+CDTCHRGFHRLEHKKRHLRTH
+
+>YGL254W FZF1 SGDID:S000003223, Chr VII from 22304-23203, Genome Release 64-1-1, Verified ORF, "Transcription factor involved in sulfite metabolism, sole identified regulatory target is SSU1, overexpression suppresses sulfite-sensitivity of many unrelated mutants due to hyperactivation of SSU1, contains five zinc fingers"
+CTLCQKRFVTNQQLRRHLNSH
+
+>YGR067C YGR067C SGDID:S000003299, Chr VII from 624786-622372, Genome Release 64-1-1, reverse complement, Uncharacterized ORF, "Putative protein of unknown function; contains a zinc finger motif similar to that of Adr1p"
+CSFCLKPFSRSEHKIRHERSH
+CQVCKHSFVRRDLLQRHIRTVH
+
+>YHL027W RIM101 SGDID:S000001019, Chr VIII from 51111-52988, Genome Release 64-1-1, Verified ORF, "Transcriptional repressor involved in response to pH and in cell wall construction; required for alkaline pH-stimulated haploid invasive growth and sporulation; activated by proteolytic processing; similar to A. nidulans PacC"
+CSTCSKKFKRPQDLKKHLKIH
+
+>YHR006W STP2 SGDID:S000001048, Chr VIII from 117814-119439, Genome Release 64-1-1, Verified ORF, "Transcription factor, activated by proteolytic processing in response to signals from the SPS sensor system for external amino acids; activates transcription of amino acid permease genes"
+CHYCDARFRIRGYLTRHIKKH
+
+>YHR207C SET5 SGDID:S000001250, Chr VIII from 516485-514905, Genome Release 64-1-1, reverse complement, Verified ORF, "Zinc-finger protein of unknown function, contains one canonical and two unusual fingers in unusual arrangements; deletion enhances replication of positive-strand RNA virus"
+CEVCKAIWCSEKCKKAHASLH
+
+>YJL056C ZAP1 SGDID:S000003592, Chr X from 333073-330431, Genome Release 64-1-1, reverse complement, Verified ORF, "Zinc-regulated transcription factor; binds to zinc-responsive promoters to induce transcription of certain genes in presence of zinc, represses other genes in low zinc; regulates its own transcription; contains seven zinc-finger domains"
+CKTCKRCFSSEETLVQHTRTH
+CHICNKKFAISSSLKIHIRTH
+CKICGKRFNESSNLSKHIKTH
+
+>YJR127C RSF2 SGDID:S000003888, Chr X from 663059-658917, Genome Release 64-1-1, reverse complement, Verified ORF, "Zinc-finger protein involved in transcriptional control of both nuclear and mitochondrial genes, many of which specify products required for glycerol-based growth, respiration, and other functions"
+CPTCTRGFVRQEHLKRHQHSH
+CIFCGRCFARRDLVLRHQQKLH
+
+>YKL062W MSN4 SGDID:S000001545, Chr XI from 323228-325120, Genome Release 64-1-1, Verified ORF, "Transcriptional activator related to Msn2p; activated in stress conditions, which results in translocation from the cytoplasm to the nucleus; binds DNA at stress response elements of responsive genes, inducing gene expression"
+CKDCEKAFRRSEHLKRHIRSVH
+CMFCEKKFSRSDNLSQHLKTH
+
+>YLR005W SSL1 SGDID:S000003995, Chr XII from 160049-161434, Genome Release 64-1-1, Verified ORF, "Component of the core form of RNA polymerase transcription factor TFIIH, which has both protein kinase and DNA-dependent ATPase/helicase activities and is essential for transcription and nucleotide excision repair; interacts with Tfb4p"
+CEDCKQEFCVDCDVFIHEILH
+
+>YLR375W STP3 SGDID:S000004367, Chr XII from 871697-872728, Genome Release 64-1-1, Verified ORF, "Zinc-finger protein of unknown function, possibly involved in pre-tRNA splicing and in uptake of branched-chain amino acids"
+CPICHRGFARNNDLLRHKKRH
+
+>YLR387C REH1 SGDID:S000004379, Chr XII from 897672-896374, Genome Release 64-1-1, reverse complement, Verified ORF, "Cytoplasmic 60S subunit biogenesis factor, associates with pre-60S particles; similar to Rei1p and shares partially redundant function in cytoplasmic 60S subunit maturation; contains dispersed C2H2 zinc finger domains"
+CIYCGKDNKEVERNVKHMFSEH
+
+>YML081W TDA9 SGDID:S000004546, Chr XIII from 104777-108532, Genome Release 64-1-1, Verified ORF, "DNA-binding protein, putative transcription factor; green fluorescent protein (GFP)-fusion protein localizes to the nucleus; null mutant is sensitive to expression of the top1-T722A allele; not an essential gene"
+CHICTRGFVRQEHLKRHQRAH
+CVFCGRCFARRDLVLRHQHKLH
+
+>YMR037C MSN2 SGDID:S000004640, Chr XIII from 346517-344403, Genome Release 64-1-1, reverse complement, Verified ORF, "Transcriptional activator related to Msn4p; activated in stress conditions, which results in translocation from the cytoplasm to the nucleus; binds DNA at stress response elements of responsive genes, inducing gene expression"
+CHICPKSFKRSEHLKRHVRSVH
+CHICDKKFSRSDNLSQHIKTH
+
+>YMR070W MOT3 SGDID:S000004674, Chr XIII from 409154-410626, Genome Release 64-1-1, Verified ORF, "Nuclear transcription factor with two Cys2-His2 zinc fingers; involved in repression of a subset of hypoxic genes by Rox1p, repression of several DAN/TIR genes during aerobic growth, and repression of ergosterol biosynthetic genes; can form the [MOT3+] prion"
+CQFCEKSFKRKSWLKRHLLSH
+CPWCLSRQKRKDNLLQHMKLKH
+
+>YMR182C RGM1 SGDID:S000004794, Chr XIII from 625167-624532, Genome Release 64-1-1, reverse complement, Verified ORF, "Putative transcriptional repressor with proline-rich zinc fingers; overproduction impairs cell growth"
+CNICLKFFSRIDNLRQHQSSVH
+
+>YNL027W CRZ1 SGDID:S000004972, Chr XIV from 579580-581616, Genome Release 64-1-1, Verified ORF, "Transcription factor that activates transcription of genes involved in stress response; nuclear localization is positively regulated by calcineurin-mediated dephosphorylation"
+CDVCGKKFTRPYNLKSHLRTH
+CSICGKAFARQHDRKRHEDLH
+
+>YOR113W AZF1 SGDID:S000005639, Chr XV from 534075-536819, Genome Release 64-1-1, Verified ORF, "Zinc-finger transcription factor, involved in induction of CLN3 transcription in response to glucose; genetic and physical interactions indicate a possible role in mitochondrial transcription or genome maintenance"
+CPYCHRLFSQATHLEVHVRSH
+CDYCGKRFTQGGNLRTHERLH
+CDICDKKFSRKGNLAAHLVTH
+
+>YPL038W MET31 SGDID:S000005959, Chr XVI from 480535-481068, Genome Release 64-1-1, Verified ORF, "Zinc-finger DNA-binding protein, involved in transcriptional regulation of the methionine biosynthetic genes, similar to Met32p"
+CAKCQLKFSRSSDLRRHEKVH
+
+>YPL230W USV1 SGDID:S000006151, Chr XVI from 115312-116487, Genome Release 64-1-1, Verified ORF, "Putative transcription factor containing a C2H2 zinc finger; mutation affects transcriptional regulation of genes involved in growth on non-fermentable carbon sources, response to salt stress and cell wall biosynthesis"
+CPACLKFFSRVDNLKQHRESVH
+
+>YPR013C YPR013C SGDID:S000006217, Chr XVI from 585585-584632, Genome Release 64-1-1, reverse complement, Uncharacterized ORF, "Putative zinc finger protein; YPR013C is not an essential gene"
+CPVCGKICSRPSTLKTHYLIH
+
+>YPR015C YPR015C SGDID:S000006219, Chr XVI from 591026-590283, Genome Release 64-1-1, reverse complement, Uncharacterized ORF, "Putative protein of unknown function; overexpression causes a cell cycle delay or arrest"
+CPICGKVCSRPSTLRTHYLIH
+
+>YPR186C PZF1 SGDID:S000006390, Chr XVI from 911022-909733, Genome Release 64-1-1, reverse complement, Verified ORF, "Transcription factor IIIA (TFIIIA); essential DNA binding protein required for transcription of 5S rRNA by RNA polymerase III; not involved in transcription of other RNAP III genes; nine conserved zinc fingers; may also bind 5S rRNA"
+CDKCAKSFVKKSHLERHLYTH
+CSYCGKGVTTRQQLKRHEVTH
+CPHCNKSFQRPYRLRNHISKHH
+CPICSKPCVGENGLQMHMIIH
+
+Number of proteins containing Zinc Finger Motif: 36
